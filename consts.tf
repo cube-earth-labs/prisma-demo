@@ -27,7 +27,7 @@ variable "region" {
 
 variable "ami" {
   type    = string
-  default = "ami-09a5b0b7edf08843d"
+  default = "ami-035bf26fb18e75d1b"
 }
 
 variable "dbname" {
